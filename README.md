@@ -1,2 +1,2 @@
 # public-pages
-Git activities public pages
+Github activities public pages
